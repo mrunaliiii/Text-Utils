@@ -1,3 +1,5 @@
+https://text-utils-gamma-vert.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -62,6 +64,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
+
+![image](https://github.com/mrunaliiii/Text-Utils/assets/115265248/d78b486f-5287-4da2-8f72-1a1565729b58)
+
+
+![image](https://github.com/mrunaliiii/Text-Utils/assets/115265248/1d4c6c1c-2881-4033-892b-a58279094ae6)
+
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
